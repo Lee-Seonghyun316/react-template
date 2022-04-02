@@ -22,7 +22,7 @@ const fontSize = {
 
 const color = {
   black: '#000',
-  white: '#eee',
+  white: '#FFFFFF',
 };
 
 const common = {

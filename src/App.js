@@ -2,7 +2,7 @@ import React from 'react';
 import GlobalStyle from './GlobalStyle';
 import { ThemeProvider } from 'styled-components';
 import theme from './theme';
-import Basic from './components/basic';
+import Basic from './components/Basic';
 
 function App() {
   return (
